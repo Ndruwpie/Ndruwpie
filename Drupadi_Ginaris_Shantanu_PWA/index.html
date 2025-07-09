@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#2196F3">
+    <title>Simple PWA</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; padding: 20px; }
+        h1 { color: #2196F3; }
+        p { color: #555; }
+        #status { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Simple PWA !!!</h1>
+    <p>HAI HAI !!!</p>
+    <p id="status"></p>
+
+    <script>
+        // Mendaftarkan Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(registration => {
+                        console.log('Service Worker berhasil didaftarkan:', registration);
+                        document.getElementById('status').textContent = "Aplikasi siap digunakan offline.";
+                    })
+                    .catch(error => {
+                        console.log('Pendaftaran Service Worker gagal:', error);
+                        document.getElementById('status').textContent = "Gagal memuat fitur offline.";
+                    });
+            });
+        }
+    </script>
+</body>
+</html>
