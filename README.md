@@ -4,9 +4,9 @@
 
 ### Software Engineering Student · Full-Stack & Mobile Developer · AI Enthusiast
 
-*Building meaningful digital experiences, one project at a time.*
+_Building meaningful digital experiences, one project at a time._
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=Ndruwpie&style=flat-square&color=blueviolet)
 
 </div>
 
@@ -26,13 +26,13 @@ I enjoy transforming ideas into practical applications, exploring the intersecti
 
 ## 🚀 What I'm Exploring
 
-| Area | Focus |
-| --- | --- |
+| Area                       | Focus                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------ |
 | **Full-Stack Engineering** | Building responsive interfaces, APIs, authentication, and maintainable systems |
-| **Mobile Development** | Developing practical mobile experiences and notification features |
-| **AI & Data** | Exploring machine learning, analytics, and data pipelines |
-| **Cybersecurity** | Strengthening security awareness and secure-development fundamentals |
-| **Creative Technology** | Experimenting with AR/VR and interactive experiences |
+| **Mobile Development**     | Developing practical mobile experiences and notification features              |
+| **AI & Data**              | Exploring machine learning, analytics, and data pipelines                      |
+| **Cybersecurity**          | Strengthening security awareness and secure-development fundamentals           |
+| **Creative Technology**    | Experimenting with AR/VR and interactive experiences                           |
 
 ## 🛠️ Tech Stack
 
@@ -54,13 +54,13 @@ I enjoy transforming ideas into practical applications, exploring the intersecti
 
 ## 💡 Selected Projects
 
-| Project | What it does |
-| --- | --- |
-| **ESSA Mobile** | Mobile application development, including authentication and push notification workflows |
+| Project                                | What it does                                                                               |
+| -------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **ESSA Mobile**                        | Mobile application development, including authentication and push notification workflows   |
 | **Workshop Service Management System** | End-to-end vehicle service workflows, from booking and quotations to invoicing and payment |
-| **Employee Attendance Application** | Selfie-based attendance with geolocation validation and working-hour calculations |
-| **News Data Analytics / Big Data** | Data collection, processing, warehousing, and dashboard exploration |
-| **AR/VR Interactive Learning** | Unity-based interactive learning experiences and equipment simulations |
+| **Employee Attendance Application**    | Selfie-based attendance with geolocation validation and working-hour calculations          |
+| **News Data Analytics / Big Data**     | Data collection, processing, warehousing, and dashboard exploration                        |
+| **AR/VR Interactive Learning**         | Unity-based interactive learning experiences and equipment simulations                     |
 
 > Project links and screenshots can be added once the repositories are public.
 
@@ -72,15 +72,15 @@ I enjoy transforming ideas into practical applications, exploring the intersecti
 
 ## 📊 GitHub Activity
 
-<!-- Replace YOUR_GITHUB_USERNAME everywhere before publishing. -->
+<!-- Replace Ndruwpie everywhere before publishing. -->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndruwpie&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndruwpie&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ndruwpie&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -88,7 +88,7 @@ I enjoy transforming ideas into practical applications, exploring the intersecti
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Ndruwpie/Ndruwpie/output/github-contribution-grid-snake.svg)
 
 </div>
 
