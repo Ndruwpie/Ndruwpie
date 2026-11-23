@@ -88,7 +88,7 @@ I enjoy transforming ideas into practical applications, exploring the intersecti
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Ndruwpie/Ndruwpie/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Ndruwpie/Ndruwpie/output/github-contribution-grid-snake.svg?v=dark-pink-2)
 
 </div>
 
